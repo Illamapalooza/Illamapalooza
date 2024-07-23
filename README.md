@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Julius Baliling</h1>
-<h3 align="center">A passionate student developer from the Philippines soon to be a Full-Stack Software Engineer</h3>
+<h3 align="center">A passionate Software Developer creating solutions for everyone one step at a time.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
